@@ -9,7 +9,7 @@
 # <bitbar.dependencies>python</bitbar.dependencies>
 # <bitbar.abouturl>https://github.com/markchitty/bitbar-plugins</bitbar.abouturl>
 #
-# by Alvin
+# by Mark
 import urllib2
 from json import JSONDecoder
 
